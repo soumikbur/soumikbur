@@ -7,9 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=soumikbur&label=Profile+Views&color=0e75b6&style=flat-square" />
 
 </td>
-<td align="right" valign="middle" width="280">
+<td align="right" valign="middle" width="45%">
 
-<img src="./assets/coding.gif" width="260" />
+<img src="./assets/coding.gif" width="100%" />
 
 </td>
 </tr>
