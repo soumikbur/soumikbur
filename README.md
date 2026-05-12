@@ -1,8 +1,19 @@
-<h1 align="center">Soumik Ghosh</h1>
-<p align="center">
-  <b>Embedded Software Developer · IoT Systems · Full Stack · Kolkata, India</b><br/>
-  <img src="https://komarev.com/ghpvc/?username=soumikbur&label=Profile+Views&color=0e75b6&style=flat-square" />
-</p>
+<table width="100%" border="0">
+<tr>
+<td valign="middle">
+
+<h1>Soumik Ghosh</h1>
+<p><b>Embedded Software Developer · IoT Systems · Full Stack · Kolkata, India</b></p>
+<img src="https://komarev.com/ghpvc/?username=soumikbur&label=Profile+Views&color=0e75b6&style=flat-square" />
+
+</td>
+<td align="right" valign="middle" width="280">
+
+<img src="./assets/coding.gif" width="260" />
+
+</td>
+</tr>
+</table>
 
 ---
 
